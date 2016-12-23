@@ -1,5 +1,5 @@
 /*
- *Quick sort Algorithm in c
+ *Insertion sort Algorithm in c
  *Please feel free to ask any question at parvesh.singh004@gmail.com
  */
 
